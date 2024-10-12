@@ -11,6 +11,7 @@ The Patient Medical Management System is a comprehensive solution designed to he
 - **Azure Data Studio**: Azure Data Studio was used for querying, managing, and maintaining the SQL database. It provided an intuitive interface for executing database scripts and managing patient-related data.
 
 **Project Features**:
+
 This project encompasses the creation of multiple tables and constraints to handle various entities involved in a healthcare system, including patients, clinics, doctors, and medical records. The database ensures that essential data like patient history, vaccination records, and COVID-19 testing results are properly stored and easily accessible.
 
 **Key Components**:
