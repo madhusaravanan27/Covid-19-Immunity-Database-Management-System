@@ -6,9 +6,9 @@ The Patient Medical Management System is a comprehensive solution designed to he
 
 **Technologies Used**
 
-SQL: SQL was used to design and create the relational database schema for managing patient, clinic, doctor, and medical records. Foreign key relationships and constraints were established to maintain data integrity and consistency.
+-**SQL**: SQL was used to design and create the relational database schema for managing patient, clinic, doctor, and medical records. Foreign key relationships and constraints were established to maintain data integrity and consistency.
 
-Azure Data Studio: Azure Data Studio was used for querying, managing, and maintaining the SQL database. It provided an intuitive interface for executing database scripts and managing patient-related data.
+-**Azure Data Studio**: Azure Data Studio was used for querying, managing, and maintaining the SQL database. It provided an intuitive interface for executing database scripts and managing patient-related data.
 
 **Project Features**:
 This project encompasses the creation of multiple tables and constraints to handle various entities involved in a healthcare system, including patients, clinics, doctors, and medical records. The database ensures that essential data like patient history, vaccination records, and COVID-19 testing results are properly stored and easily accessible.
@@ -17,31 +17,31 @@ This project encompasses the creation of multiple tables and constraints to hand
 
 **Patient Records Management**:
 
-Store and manage patient personal details (name, age, contact information).
+-Store and manage patient personal details (name, age, contact information).
 
-Track each patient's medical history, including existing conditions and surgeries.
+-Track each patient's medical history, including existing conditions and surgeries.
 
 **Clinic and Doctor Information:**
 
-Manage clinic details such as address, contact information, and associated doctors.
+-Manage clinic details such as address, contact information, and associated doctors.
 
-Allow doctors to access patient records for better care delivery.
+-Allow doctors to access patient records for better care delivery.
 
 **Medical History and Vaccination Records:**
 
-Track medical histories, including vaccination information (COVID-related or others).
+-Track medical histories, including vaccination information (COVID-related or others).
 
-Manage antibody testing results to track a patient's immunity status.
+-Manage antibody testing results to track a patient's immunity status.
 
 **COVID Exposure Tracking:**
 
-Record COVID exposure details such as infection date, severity, symptoms, and treatments.
+-Record COVID exposure details such as infection date, severity, symptoms, and treatments.
 
 **Constraints and Data Integrity:**
 
-Primary and foreign key constraints ensure that patient, doctor, and clinic records are consistently linked and maintained.
+-Primary and foreign key constraints ensure that patient, doctor, and clinic records are consistently linked and maintained.
 
-Unique constraints ensure that duplicate records (e.g., email addresses) are not stored.
+-Unique constraints ensure that duplicate records (e.g., email addresses) are not stored.
 
 **Conclusion:**
 
