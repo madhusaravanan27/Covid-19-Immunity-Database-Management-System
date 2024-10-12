@@ -1,10 +1,10 @@
 # **Covid-19-Immunity-Database-Management-System**
 
-**Overview**
+**Overview**:
 
 The Patient Medical Management System is a comprehensive solution designed to help healthcare providers, clinics, and patients manage and track essential medical information. The system focuses on efficiently handling patient records, medical history, vaccination details, and clinic/doctor information, ensuring that healthcare services are delivered seamlessly. It also provides functionality for tracking COVID-19 exposure and testing details, enabling better decision-making and care for patients.
 
-**Technologies Used**
+**Technologies Used**:
 
 - **SQL**: SQL was used to design and create the relational database schema for managing patient, clinic, doctor, and medical records. Foreign key relationships and constraints were established to maintain data integrity and consistency.
 
